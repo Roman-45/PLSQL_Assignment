@@ -1,0 +1,52 @@
+insert into customer(
+c_id,
+f_name,
+address,
+phone,
+gender)
+values(
+2,
+'yvonne',
+'nyagimombo',
+'0788567858',
+'feMale')
+;
+insert into customer(
+c_id,
+f_name,
+address,
+phone,
+gender)
+values(
+3,
+'Kanyana',
+'nyarugenge',
+'0788565658',
+'Female')
+;
+insert into customer(
+c_id,
+f_name,
+address,
+phone,
+gender)
+values(
+4,
+'Keza',
+'gikondo',
+'0791085658',
+'Female')
+;
+insert into customer(
+c_id,
+f_name,
+address,
+phone,
+gender)
+values(
+5,
+'niyonsaba',
+'Kiyovu',
+'0788305188',
+'Male')
+;
