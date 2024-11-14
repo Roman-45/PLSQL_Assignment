@@ -3,7 +3,7 @@
 # Online Service Delivery.
 
 An summary of the online delivery, created especially for Oracle courses to handle and store customer and product-related data, is given in this README. Tables for clients, orders, employees, and goods are included.
-
+ 
 ## Table Structures
 
 ### Customer Table
